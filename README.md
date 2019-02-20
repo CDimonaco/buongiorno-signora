@@ -4,7 +4,7 @@
 ## Features
 
 `buongiorno-signora` is a wrapper of `bonjourmadame.fr` website for visual studio code.
-This project follows the rule of `dog head driven development`.
+This project follows the rule of `dog dick driven development`.
 
 ## Extension Settings
 
