@@ -10,14 +10,16 @@
 		"Other"
 	],
 	"activationEvents": [
-		"onCommand:extension.helloWorld"
+		"onCommand:extension.bonjourMadame"
 	],
 	"main": "./out/extension.js",
 	"contributes": {
-		"commands": [{
-			"command": "extension.helloWorld",
-			"title": "Hello World"
-		}]
+		"commands": [
+			{
+				"command": "extension.bonjourMadame",
+				"title": "Bonjour madame!"
+			}
+		]
 	},
 	"scripts": {
 		"vscode:prepublish": "yarn run compile",
